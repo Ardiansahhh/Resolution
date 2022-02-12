@@ -1,5 +1,6 @@
 - menyelesaikan kelas laravel flutter
 - punya 1 aplikasi di Playstore dan Appstore
+  - belajar upload ke playstore
 - familiar terhadap flutter
 - membeli tanah
-- bangun rumah
+
