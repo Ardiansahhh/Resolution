@@ -2,5 +2,5 @@
 - punya 1 aplikasi di Playstore dan Appstore
   - belajar upload ke playstore
 - familiar terhadap flutter
+  - belajar mastering design 
 - membeli tanah
-
