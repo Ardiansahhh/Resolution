@@ -1,0 +1,2 @@
+- menyelesaikan kelas laravel flutter
+- punya 1 aplikasi di Playstore dan Appstore
